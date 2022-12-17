@@ -516,4 +516,4 @@ exports.donate = (pushname, ownerNumber) => {
 wa.me/${ownerNumber} (Owner)`
 }
 
-exports.sewanya = `List Sewa ubah sendiri di folder command, file help.js 👌`
+exports.sewanya = `List Sewa silahkan DM melalui instagram owner https://instagram.com/andiigndr29 `
